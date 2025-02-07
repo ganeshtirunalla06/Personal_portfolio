@@ -32,3 +32,10 @@ If you want to run the project on your local machine:
 1. **Clone this repository:**  
    ```sh
    git clone  https://github.com/ganeshtirunalla06/Personal_portfolio.git
+
+
+   #📩 Contact Me
+If you have any feedback or questions, feel free to reach out: <br>
+ <br>📧 Email: ganeshtirunalla06@gmail.com
+ <br>🔗 LinkedIn: Ganesh Kumar Tirunalla
+ <br>🐙 GitHub: ganesh
